@@ -1,1 +1,1 @@
-Project developed in group with 2 colleagues. Objective: Develop an app (web or desktop) for an interactive calendar to manage a team.
+Project developed in group with 2 colleagues. Objective: Develop an app (web or desktop) for an interactive calendar to manage a team. Complete project in: https://drive.google.com/drive/folders/1v8sQzG7IsyQnRbc1BEI3KJDnXL5Wykio?usp=sharing
