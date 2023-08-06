@@ -1,0 +1,1 @@
+Project developed in group, with 2 colleagues with the challenge of developing an Interactive Calendar to manage a whole team. We decided to develop this website in Java and completed the challenge succesfully.
