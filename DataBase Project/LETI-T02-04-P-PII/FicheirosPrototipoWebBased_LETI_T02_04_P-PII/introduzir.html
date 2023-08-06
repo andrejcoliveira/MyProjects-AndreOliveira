@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html"; charset=UTF-8>
+		<title>BD Biblioteca - Introduzir</title>
+	</head>
+
+	<body bgcolor="#FFFFFF">
+		<h1><center>Introduzir nova Pubilcação</center></h1>
+		<form method="post" action="introduzir.php">
+			<label for="Id">ID:</label><br/>
+			<input type="int" name="Id" size="11" maxlength="11"></input>
+			<br><br>
+			<label for="Nome">Nome:</label><br/>
+			<input type="varchar" name="Nome" size="50" maxlength="50"></input>
+			<br><br>
+			<label for="Nome_abreviado">Nome Abreviado:</label><br/>
+			<input type="varchar" name="Nome_abreviado" size="25" maxlength="25"></input>
+			<br><br>
+			<label for="Id">Código:</label><br/>
+			<input type="int" name="Codigo" size="11" maxlength="11"></input>
+			<br><br>
+			<label for="Data_de_Publicacao">Data de Publicação:</label><br/>
+			<input type="date" name="Data_de_Publicacao" ></input>
+			<br><br>
+			<label for="Ano_de_publicacao">Ano de Publicação:</label><br/>
+			<input type="int" name="Ano_de_Publicacao"  size="11" maxlength="11"></input>
+			<br><br>
+			<label for="Nr_Pags">Número de Páginas:</label><br/>
+			<input type="int" name="Nr_Pags"  size= "11" maxlength="11"></input>
+			<br><br>
+			<label for="Capa">Capa:</label><br/>
+			<input type="varchar" name="Capa" size="50" maxlength="50"></input>
+			<br><br>
+			<label for="Capa_em_Miniatura">Capa em Miniatura:</label><br/>
+			<input type="varchar" name="Capa_em_Miniatura" size="25" maxlength="25"></input>
+			<br><br>
+			<label for="Qtd_Emprestimos">Quantidade de Empréstimos:</label><br/>
+			<input type="smallint" name="Qtd_Emprestimos"  size= "6" maxlength="6"></input>
+			<br><br>
+			<label for="Qtd_Acessos">Quantidade de Acessos:</label><br/>
+			<input type="smallint" name="Qtd_Acessos"  size= "6" maxlength="6"></input>
+			<br><br>
+			<label for="Data_de_aquisicao">Data de Aquisição:</label><br/>
+			<input type="date" name="Data_de_aquisicao" ></input>
+			<br><br>
+			<label for="Id_area">Id da Área Temática:</label><br/>
+			<input type="int" name="Id_area" size="11" maxlength="11"></input>
+			<br><br>
+			<label for="relevancia"> Relevância:</label><br/>
+			<input type="tinyint" name="relevancia"  size= "4" maxlength="4"></input>
+	
+			<br><br>
+			<input type="submit" name="Submit" value="Introduzir">
+			<input type="reset" name="Submit2" value="Limpar">
+			</br>
+		</form>
+	</body>
+</html>

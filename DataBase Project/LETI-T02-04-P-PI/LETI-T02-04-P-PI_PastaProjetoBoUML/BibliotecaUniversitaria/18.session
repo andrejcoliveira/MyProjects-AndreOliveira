@@ -1,0 +1,56 @@
+window_sizes 1680 987 314 1361 941 0
+
+diagrams
+  active  classdiagram_ref 128018 // BibliotecaUniversitaria
+    1361 941 100 A0 408 0
+end
+show_stereotypes
+selected attribute_ref 180626 // ID_Lista_Leitura
+open
+  class_ref 128018 // Publicacao
+  class_ref 128146 // PalavraChave
+  class_ref 128274 // Info
+  class_ref 128402 // Livro
+  class_ref 128530 // Periodico
+  class_ref 128658 // Monografia
+  class_ref 128786 // Revistas
+  class_ref 128914 // Jornais
+  class_ref 129042 // Mestrado
+  class_ref 129170 // Doutoramento
+  class_ref 129298 // Tese
+  class_ref 129426 // RelatorioTecnico
+  class_ref 129554 // TextoPedagogico
+  class_ref 129682 // Artigo
+  class_ref 129810 // Area
+  class_ref 136594 // Capitulo
+  class_ref 136722 // Utente
+  class_ref 136850 // Emprestimo
+  class_ref 136978 // Prolongamento
+  class_ref 137106 // Multa
+  class_ref 143634 // Documento
+  class_ref 143762 // Passaporte
+  class_ref 143890 // CC
+  class_ref 144018 // Exemplar
+  class_ref 150546 // Livros_nao_emp
+  class_ref 150674 // Revistas_Emp
+  class_ref 150802 // Extravio
+  class_ref 150930 // Suspensao
+  class_ref 151058 // Armarios
+  class_ref 151186 // Prateleiras
+  class_ref 151314 // Novo
+  class_ref 151442 // Gasto
+  class_ref 151570 // Extraviado
+  class_ref 151698 // Inutilizado
+  class_ref 151826 // Lista_de_leitura
+  class_ref 151954 // Relevancia
+  class_ref 152082 // Mais_Consultados
+  class_ref 152210 // Recentes
+  class_ref 158994 // Feed
+  class_ref 159122 // Formulario
+  class_ref 159250 // Importacao
+  class_ref 159378 // Feed_editora
+  class_ref 172434 // Feed_periodico
+  class_ref 172562 // Periodicidade
+  class_ref 172690 // SubArea
+end
+end
